@@ -1,0 +1,6 @@
+{
+  "name": "Nepali AI Voice Studio - TTS & Audio Doctor",
+  "description": "Convert Nepali and multilingual text to expressive speech using gemini-3.8-flash-tts with real-time Devanagari phonetic optimization and Audio Not Supported troubleshooting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
